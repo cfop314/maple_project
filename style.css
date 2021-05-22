@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+.seedInput {
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+#maker {
+  font-size: 37px;
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+}
+
+#maker span {
+  font-size: 29px;
+}
