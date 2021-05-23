@@ -1,4 +1,3 @@
-
 function setAnswers() {
     localStorage.setItem("프나메", "3");
     localStorage.setItem("리프테", "4");
