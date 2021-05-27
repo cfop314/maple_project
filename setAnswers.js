@@ -177,6 +177,7 @@ function setAnswers() {
     localStorage.setItem("헤판커", "2");
     localStorage.setItem("리오백", "4");
     localStorage.setItem("여엘에", "4번이 아리안트일 경우 1번, 마가레트일 경우 4");
+    localStorage.setItem("여엘루", "4");
     localStorage.setItem("슬리에", "1");
     localStorage.setItem("엘에크", "1");
     localStorage.setItem("오아컨", "3");
